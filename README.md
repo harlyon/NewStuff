@@ -1,3 +1,3 @@
 # CMS
 
-A quick description of CMS.
+A NodeJs CMS Project.
