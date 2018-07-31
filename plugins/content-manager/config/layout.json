@@ -1,0 +1,49 @@
+{
+  "articles": {
+    "attributes": {
+      "Author": {
+        "appearance": ""
+      },
+      "DatePublished": {
+        "appearance": ""
+      },
+      "ContentBrief": {
+        "appearance": ""
+      },
+      "ContentExtended": {
+        "appearance": ""
+      },
+      "PublishedState": {
+        "appearance": ""
+      },
+      "Meta_site name": {
+        "appearance": ""
+      },
+      "Meta_title": {
+        "appearance": ""
+      },
+      "Meta description": {
+        "appearance": ""
+      },
+      "Meta type": {
+        "appearance": ""
+      },
+      "Meta keyword": {
+        "appearance": ""
+      }
+    }
+  },
+  "domains": {
+    "attributes": {
+      "Name": {
+        "appearance": ""
+      },
+      "Url": {
+        "appearance": ""
+      },
+      "Status": {
+        "appearance": ""
+      }
+    }
+  }
+}
